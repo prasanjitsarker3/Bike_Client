@@ -74,10 +74,4 @@ The Bike Management Dashboard offers a powerful set of tools for efficiently man
 
 Live Link:https://super-bombolone-1cd8cb.netlify.app
 
-Video Link: https://drive.google.com/file/d/14-Psr78K3XjWRiWYLP2dxzO96eL_7VYi/view?usp=sharing
-
-Github Client: https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-fronten-prasanjitsarker3
-Github Server: https://github.com/Porgramming-Hero-web-course/l2-b2-assignment-6-backend-prasanjitsarker3
-
-# l2-b2-assignment-6-fronten-prasanjitsarker3
 # Bike_Client
